@@ -1,5 +1,6 @@
 bases:
 - ../../base
+- route.yaml
 
 nameSuffix: -apac
 
